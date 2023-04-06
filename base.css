@@ -22,9 +22,9 @@ body
 {
 	font-family: 'Oxygen', sans-serif, Helvetica, Arial;
 	margin: 0 auto;
-	background-size: 100%;
+	background-size: 100% 100%;
 	background-image: url('bl2.png');
-	background-attachment:local;
+	background-attachment:scroll;
 	
 }
 
